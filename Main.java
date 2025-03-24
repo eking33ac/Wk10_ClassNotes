@@ -1,5 +1,8 @@
 import java.util.Scanner; // inport user input processing
 
+    // serialization takes object data and makes it presentable. 
+    // deserialization takes presentable data and makes it a list to work on or store/transport
+
 class Main {
     int x = 5;
 
